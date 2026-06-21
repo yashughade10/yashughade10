@@ -38,10 +38,4 @@ Preparing for top software engineering opportunities while building innovative A
 ---
 [![](https://komarev.com/ghpvc/?username=yashughade10&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Snake Game Repo View -->
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
